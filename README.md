@@ -1,5 +1,6 @@
 🚀 FraudOps Lite
 Real-Time Transaction Monitoring & Fraud Alert System
+
 📌 Overview
 FraudOps Lite is a backend-driven system designed to monitor financial transactions in real-time, detect suspicious activity using rule-based logic, and generate alerts for further investigation.
 
