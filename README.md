@@ -142,18 +142,5 @@ Testing will include:
 **Bandile Magwaza**
 Aspiring Software Developer | BICT Student
 
----
 
-## ⭐ Why This Project Matters
-
-This project demonstrates the ability to:
-
-* Design and build scalable backend systems
-* Solve real-world financial problems
-* Apply software engineering principles
-* Work with modern development tools
-
-It reflects the type of systems used in fintech and banking environments.
-
----
 
